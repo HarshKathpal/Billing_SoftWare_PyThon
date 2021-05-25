@@ -1,0 +1,25 @@
+	Welcome Harsh
+
+ Bill Number : 8586
+ Customer Name : harsh
+ Phone Number : 7229813691
+========================================
+ Product		QTY		Price
+========================================
+ Bath Soap		1		40
+ Face Wash		1		60
+ Gell		1		140
+ Daal		1		60
+ Sugar		1		45
+ Cock		1		60
+ Limka		1		40
+----------------------------------------
+ Cosmatic Tax			12.0 Rs.
+ Grocery Tax			1.05 Rs.
+ Cold Drink Tax			5.0 Rs.
+ Cosmetic Price			240.0 Rs.
+ Grocery Price			105.0 Rs.
+ Cold Drink Price			100.0 Rs.
+----------------------------------------
+ Total Bill			463.05 Rs.
+----------------------------------------

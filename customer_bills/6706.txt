@@ -1,0 +1,21 @@
+	Welcome Harsh
+
+ Bill Number : 6706
+ Customer Name : chinky
+ Phone Number : 4545454545
+========================================
+ Product		QTY		Price
+========================================
+ Face Wash		1		60
+ Wheat		1		240
+ Thumbsup		1		45
+----------------------------------------
+ Cosmatic Tax			3.0 Rs.
+ Grocery Tax			2.4 Rs.
+ Cold Drink Tax			2.25 Rs.
+ Cosmetic Price			60.0 Rs.
+ Grocery Price			240.0 Rs.
+ Cold Drink Price			45.0 Rs.
+----------------------------------------
+ Total Bill			352.65 Rs.
+----------------------------------------

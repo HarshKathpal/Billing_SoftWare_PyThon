@@ -1,0 +1,21 @@
+	Welcome Harsh
+
+ Bill Number : 3701
+ Customer Name : harsh
+ Phone Number : 1234567891
+========================================
+ Product		QTY		Price
+========================================
+ Bath Soap		1		40
+ Food Oil		1		180
+ Frooti		5		250
+----------------------------------------
+ Cosmatic Tax			2.0 Rs.
+ Grocery Tax			1.8 Rs.
+ Cold Drink Tax			12.5 Rs.
+ Cosmetic Price			40.0 Rs.
+ Grocery Price			180.0 Rs.
+ Cold Drink Price			250.0 Rs.
+----------------------------------------
+ Total Bill			486.3 Rs.
+----------------------------------------

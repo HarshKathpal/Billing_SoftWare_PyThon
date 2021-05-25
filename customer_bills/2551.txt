@@ -1,0 +1,21 @@
+	Welcome Harsh
+
+ Bill Number : 2551
+ Customer Name : fxgdg
+ Phone Number : 1234567890
+========================================
+ Product		QTY		Price
+========================================
+ Face Cream		1		120
+ Wheat		1		240
+ Thumbsup		1		45
+----------------------------------------
+ Cosmatic Tax			6.0 Rs.
+ Grocery Tax			2.4 Rs.
+ Cold Drink Tax			2.25 Rs.
+ Cosmetic Price			120.0 Rs.
+ Grocery Price			240.0 Rs.
+ Cold Drink Price			45.0 Rs.
+----------------------------------------
+ Total Bill			415.65 Rs.
+----------------------------------------

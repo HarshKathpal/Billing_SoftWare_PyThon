@@ -1,0 +1,25 @@
+	Welcome Harsh
+
+ Bill Number : 1065
+ Customer Name : hharshhhhkhh
+ Phone Number : 7229813691
+========================================
+ Product		QTY		Price
+========================================
+ Face Cream		1		120
+ Spray		1		180
+ Body loshan		1		180
+ Rice		1		80
+ Wheat		1		240
+ Frooti		1		50
+ Sprite		1		60
+----------------------------------------
+ Cosmatic Tax			24.0 Rs.
+ Grocery Tax			3.2 Rs.
+ Cold Drink Tax			5.5 Rs.
+ Cosmetic Price			480.0 Rs.
+ Grocery Price			320.0 Rs.
+ Cold Drink Price			110.0 Rs.
+----------------------------------------
+ Total Bill			942.7 Rs.
+----------------------------------------
